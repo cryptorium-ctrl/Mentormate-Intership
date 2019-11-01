@@ -1,0 +1,50 @@
+﻿[
+  {
+    "Name": "Ivan",
+    "PlayerSince": 2010,
+    "Position": "Backend",
+    "Raiting": 10
+  },
+  {
+    "Name": "Luka Doncic",
+    "PlayerSince": 2018,
+    "Position": "SG",
+    "Raiting": 87.0
+  },
+  {
+    "Name": "Thomas Welsh",
+    "PlayerSince": 2018,
+    "Position": "C",
+    "Raiting": 67.0
+  },
+  {
+    "Name": "Trae Young",
+    "PlayerSince": 2018,
+    "Position": "PG",
+    "Raiting": 84.0
+  },
+  {
+    "Name": "Stephen Curr",
+    "PlayerSince": 2009,
+    "Position": "PG",
+    "Raiting": 95.0
+  },
+  {
+    "Name": "Giannis Antetokounmp",
+    "PlayerSince": 2012,
+    "Position": "SF",
+    "Raiting": 96.0
+  },
+  {
+    "Name": "Jayson Tatum",
+    "PlayerSince": 2017,
+    "Position": "SF",
+    "Raiting": 84.0
+  },
+  {
+    "Name": "LeBron James",
+    "PlayerSince": 2003,
+    "Position": "SF",
+    "Raiting": 96.0
+  }
+]

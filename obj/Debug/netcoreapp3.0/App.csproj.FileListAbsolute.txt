@@ -1,0 +1,14 @@
+C:\Users\ivan.blagoychev\source\repos\App\App\bin\Debug\netcoreapp3.0\App.exe
+C:\Users\ivan.blagoychev\source\repos\App\App\bin\Debug\netcoreapp3.0\App.deps.json
+C:\Users\ivan.blagoychev\source\repos\App\App\bin\Debug\netcoreapp3.0\App.runtimeconfig.json
+C:\Users\ivan.blagoychev\source\repos\App\App\bin\Debug\netcoreapp3.0\App.runtimeconfig.dev.json
+C:\Users\ivan.blagoychev\source\repos\App\App\bin\Debug\netcoreapp3.0\App.dll
+C:\Users\ivan.blagoychev\source\repos\App\App\bin\Debug\netcoreapp3.0\App.pdb
+C:\Users\ivan.blagoychev\source\repos\App\App\obj\Debug\netcoreapp3.0\App.csprojAssemblyReference.cache
+C:\Users\ivan.blagoychev\source\repos\App\App\obj\Debug\netcoreapp3.0\App.AssemblyInfoInputs.cache
+C:\Users\ivan.blagoychev\source\repos\App\App\obj\Debug\netcoreapp3.0\App.AssemblyInfo.cs
+C:\Users\ivan.blagoychev\source\repos\App\App\obj\Debug\netcoreapp3.0\App.dll
+C:\Users\ivan.blagoychev\source\repos\App\App\obj\Debug\netcoreapp3.0\App.pdb
+C:\Users\ivan.blagoychev\source\repos\App\App\bin\Debug\netcoreapp3.0\data.json
+C:\Users\ivan.blagoychev\source\repos\App\App\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\ivan.blagoychev\source\repos\App\App\obj\Debug\netcoreapp3.0\App.csproj.CopyComplete
